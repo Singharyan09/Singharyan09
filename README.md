@@ -1,7 +1,7 @@
   <h2 align="center">💻 Pre-Final Year B.Tech Student | Full-Stack Developer</h2>
 
   <p align="center">
-    <a href="https://himanshusolo.dev">
+    <a href="https://portfolio-eight-rosy-60.vercel.app">
       <img src="https://img.shields.io/badge/Portfolio-Visit-%2300C4CC?style=for-the-badge&logo=vercel&logoColor=white" />
     </a>
   </p>
@@ -49,10 +49,8 @@
   ## Connect with Me
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/himanshuverma192005/"><img
+    <a href="https://www.linkedin.com/in/aryan-lallar/"><img
   src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://www.instagram.com/himanshu._.verma2005/"><img
-  src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   </p>
 
   ---
