@@ -1,7 +1,7 @@
   <h2 align="center">💻 Pre-Final Year B.Tech Student | Full-Stack Developer</h2>
 
   <p align="center">
-    <a href="https://portfolio-eight-rosy-60.vercel.app">
+    <a href="https://aryanlallar.vercel.app">
       <img src="https://img.shields.io/badge/Portfolio-Visit-%2300C4CC?style=for-the-badge&logo=vercel&logoColor=white" />
     </a>
   </p>
